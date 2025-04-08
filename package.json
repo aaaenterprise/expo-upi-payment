@@ -1,0 +1,30 @@
+{
+  "name": "expo-upi-payment",
+  "version": "0.1.0",
+  "description": "UPI Payment library for React Native Expo (Android only)",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "upi",
+    "payment",
+    "android"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "expo": ">=44.0.0",
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.70.0",
+    "typescript": "^4.9.4"
+  }
+}

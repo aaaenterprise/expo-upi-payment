@@ -1,0 +1,7 @@
+src/
+tsconfig.json
+example/
+.github/
+jest.config.js
+*.tgz
+node_modules/' 
